@@ -1,4 +1,6 @@
-#Boston Uni
+
+# Boston Univeristy
+
 
 #computational-project-cookie-cutter
 A cookie cutter (aka project template) to set up a folder structure for a computational project.
